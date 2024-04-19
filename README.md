@@ -12,8 +12,7 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Add live site URL here](https://mohamedkhaled2213.github.io/Front-end-mentor-grid-temp/)
 
 ## My process
 
@@ -26,4 +25,4 @@ This is a solution to the [Testimonials grid section challenge on Frontend Mento
 
 ## Author
 
-- Frontend Mentor - [@yourusername](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@mohamedkhaled2213](https://www.frontendmentor.io/profile/mohamedkhaled2213)
