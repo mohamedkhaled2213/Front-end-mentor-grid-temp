@@ -81,7 +81,7 @@ h6 {
   width: 40px;
 }
 
-.circle:nth-of-type(1) {
+.one .circle{
   border: 2px solid #bc92fd;
 }
 
